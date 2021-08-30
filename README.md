@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammedaheel98
+- 👋 Hi, I’m Mohammed Aheel S
 - 👀 I’m interested in Python Developer
 - 🌱 I’m currently learning Django web framework
 - 💞️ I’m looking to collaborate on Backend developer 
