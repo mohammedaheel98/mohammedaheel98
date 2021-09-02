@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Aheel S
-- 👀 I’m interested in Python Developer
+- 👀 I’m interested in Backend Python Developer
 - 🌱 I’m currently learning Django web framework
-- 💞️ I’m looking to collaborate on Backend developer 
+- 💞️ I’m looking to collaborate on python community 
 - 📫 How to reach me 8148041884
 
 <!---
